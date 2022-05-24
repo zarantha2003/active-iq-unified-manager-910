@@ -6,7 +6,7 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: true
-    versions:
+  versions:
     # Current repo stanza comes first
     - name: Active IQ Unified Manager
       url: /active-iq-unified-manager-910
